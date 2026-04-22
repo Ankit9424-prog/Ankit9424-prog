@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ankit Katwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+AI;PyTorch+%7C+NLP+%7C+RAG;Building+end-to-end+AI+systems" alt="Typing SVG"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+AI;PyTorch+%7C+NLP+%7C+RAG;Building+end-to-end+AI+systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -52,12 +52,6 @@
 </p>
 
 ---
-
-<h2 align="center">Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit9424-prog&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-</p>
 
 ---
 
