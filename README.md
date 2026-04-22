@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ankit Katwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+AI;PyTorch+%7C+NLP+%7C+RAG;Building+end-to-end+AI+systems" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+AI;PyTorch+%7C+NLP+%7C+RAG;Building+end-to-end+AI+systems" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit9424-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit9424-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit9424-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
@@ -25,7 +25,7 @@
 <h2 align="center">Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit9424-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ankit9424-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 <h2 align="center">Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit9424-prog&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit9424-prog&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
 </p>
 
 ---
