@@ -13,19 +13,11 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Profile Summary</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit9424-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit9424-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
----
-
-<h2 align="center">Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ankit9424-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit9424-prog&theme=tokyonight" alt="GitHub Profile Details" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit9424-prog&theme=tokyonight" alt="Top Languages" height="190"/>
 </p>
 
 ---
@@ -50,8 +42,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
 
 ---
 
